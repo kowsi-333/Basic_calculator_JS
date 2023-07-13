@@ -1,0 +1,39 @@
+body{
+    background: black;
+}
+
+h1{
+    background:pink;
+    color:blueviolet;
+    
+    height:100px;
+    border-radius: 10%;
+    text-align:center;
+    padding-top:50px;
+}
+h3{
+    background:white;
+    height:100px;
+    text-align: center;
+    padding-top:50px;
+    font:200px;
+    font-size: xx-large;
+
+}
+div{
+    background:red;
+    border-radius:20%;
+    color:white;
+    height:50px;
+    width:400px;
+    margin:auto;
+
+    margin-top:50px;
+}
+p{
+    
+    text-align:center;
+    padding-top:10px;
+    font-size:xx-large;
+    
+}
